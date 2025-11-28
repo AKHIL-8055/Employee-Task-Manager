@@ -4,7 +4,7 @@ A full-stack Employee Task Management system built using Spring Boot for the bac
 
 ## Project Demonstration
 
-Demo Video: [https://drive.google.com/file/d/1NiUYOH1hM9gzCUfV7nmWBzAFLUKqZsqF/view?usp=sharing](Drive link)
+Demo Video: https://drive.google.com/file/d/1NiUYOH1hM9gzCUfV7nmWBzAFLUKqZsqF/view?usp=sharing
 
 
 ## Project Structure
