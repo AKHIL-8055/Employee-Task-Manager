@@ -2,6 +2,11 @@
 
 A full-stack Employee Task Management system built using Spring Boot for the backend and ReactJS for the frontend, with MySQL database integration. This application provides secure authentication, efficient task handling, and an intuitive user interface for optimal user experience.
 
+## Project Demonstration
+
+Demo Video: [Insert your video link here]
+
+
 ## Project Structure
 
 The repository is organized into two main components:
@@ -81,9 +86,7 @@ Employee-Task-Manager/
 - User-Friendly Interface: Clean and intuitive user interface with thoughtful user experience design
 - Creative Design Elements: Visually appealing UI components demonstrating innovative design thinking
 
-## Project Demonstration
 
-Demo Video: [Insert your video link here]
 
 ## Getting Started
 
